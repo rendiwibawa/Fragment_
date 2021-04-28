@@ -5,7 +5,7 @@
 </a>
 
 ### 💻 component App  :
-- [x]	Intent
+- [x]	Intent.
 - [x]	Fragment
 - [x]	Layout (Relative,Linear,Constraint)
 
