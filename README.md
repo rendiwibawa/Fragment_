@@ -6,7 +6,7 @@
 
 ### 💻 component App  :
 - [x]	Intent.
-- [x]	Fragment
+- [x]	Fragment.
 - [x]	Layout (Relative,Linear,Constraint)
 
 ### 🤳 Pengertian fragment dan Lifecycle
